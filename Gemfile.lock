@@ -108,7 +108,7 @@ GEM
     payjp (0.0.7)
       rest-client (~> 2.0)
     puma (3.12.1)
-    rack (2.0.7)
+    rack (2.2.3)
     rack-test (0.6.3)
       rack (>= 1.0)
     rails (5.0.7.2)
